@@ -10,7 +10,7 @@ This repository shows on how to migrate from hmkit-oem to hmkit-crypto-telematic
 <!-- TOC -->
 
 ### Use the new [dependencies](./build.gradle.kts)
-Use `implementation("com.high-mobility:hmkit-crypto-telematics:0.1")` instead of `hmkit-oem`
+Use `implementation("com.high-mobility:hmkit-crypto-telematics:0.1")` instead of `hmkit-oem` and `hmkit-crypto`
 
 ### Add hmkit-oem classes manually
 We add the main `HMKit.java` and `ContentType.java` classes from `hmkit-oem` manually to our project.
