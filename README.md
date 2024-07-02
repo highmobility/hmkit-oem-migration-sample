@@ -1,6 +1,6 @@
 # hmkit-oem migration to hmkit-crypto-telematics
 
-This repository is a sample app on how to migrate from hmkit-oem to hmkit-crypto-telematics.
+This repository shows on how to migrate from hmkit-oem to hmkit-crypto-telematics.
 
 <!-- TOC -->
 * [Use the new dependencies](#use-the-new-dependencies)
