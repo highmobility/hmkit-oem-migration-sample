@@ -16,7 +16,7 @@ We use `implementation("com.high-mobility:hmkit-crypto-telematics:0.1")` instead
 ### Add hmkit-oem classes manually
 We add the main `HMKit.java` and `ContentType.java` classes from `hmkit-oem` manually to our project.
 
-Check out the [HMKit.java](./src/main/java/com/highmobility/hmkit/HMKit.java) class that was copied to this project
+Check out the [HMKit/ContentType.java](./src/main/java/com/highmobility/hmkit/) classes that were copied to this project
 
 
 ### Run the sample
